@@ -1,0 +1,22 @@
+const signUp = "Sign Up",
+    bartr = "bartr",
+    alreadyHaveAccount = "I already have an account",
+    firstAndLastName = "First And Last Name",
+    yourFirstAndLastName = "Your first and last name",
+    email = "Email",
+    yourEmailAddress = "Your email address",
+    password = "Password",
+    confirmPassword = "Confirm Password",
+    reenterPassword = "Re-enter password",
+    location = "Location",
+    shareLocation = "Share Location";
+
+const vintageBike = "Vintage Bike",
+    vegetables = "Vegetables",
+    bicycle = "Bicycle",
+    mia = "Mia",
+    sarah = "Sarah",
+    ali = "Ali",
+    pendingResponse = "Pending Response",
+    newStatus = "New",
+    holdStatus = "Hold";

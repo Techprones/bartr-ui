@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319300740317",
+    "project_id": "bartr-cbfbe",
+    "storage_bucket": "bartr-cbfbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319300740317:android:0204382388a98838e6e734",
+        "android_client_info": {
+          "package_name": "com.example.bartr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBge1InT5abtrk0k-WtZ4b96y8ibm02Sxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+export 'package:flutter/material.dart';
+export './imgs.dart';
+export './colors.dart';
+export './strings.dart';
+export './styles.dart';
+export './firebase_const.dart';
+export 'package:get/get.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:google_fonts/google_fonts.dart';
