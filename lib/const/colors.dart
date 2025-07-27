@@ -7,4 +7,3 @@ const Color fontGrey = Color(0xff7B6F72);
 const Color darkFontGrey = Color.fromRGBO(62, 68, 71, 1);
 const Color fontWhite = Color(0xffFFFFFF);
 const Color lightFontGrey = Color(0xffBABABA);
-const Color lightFontGrey2 = Color(0xffBABABA);
